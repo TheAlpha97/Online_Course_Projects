@@ -1,0 +1,11 @@
+pd.Series(data = mylist) ..... (data = myarray)
+can be implicit
+can add labels 
+can access entries using index labels
+can do math on series
+pd.concat : axis is important. sort = False, creates a dataframe. 
+pd.Dataframe : creates a dataframe of an array / a matrix.
+df3.loc['fourth row'] : for rows. For columns straightaway indexing works. 
+df3.iloc[2]: 3rd row, all columns.
+df3.loc[['fourth row','first row'],['second col','third col']] : 2x2 dataframe.
+ 

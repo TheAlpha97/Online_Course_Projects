@@ -1,2 +1,2 @@
 # GreatLearning_Projects
-Projects from Greatlearning courses
+AI/ML Projects from Greatlearning courses
